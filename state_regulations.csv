@@ -1,0 +1,92 @@
+Contaminant,State_MCL,State_DLR,State_PHG,PHG_Date,Federal_MCL,Federal_MCLG,Units
+Aluminum,1.0,0.05,0.6,2001,,,mg/L
+Antimony,0.006,0.006,0.001,2016,0.006,0.006,mg/L
+Arsenic,0.01,0.002,4e-06,2004,0.01,0.0,mg/L
+Asbestos,7.0,0.2,7.0,2003,7.0,7.0,MFL
+Barium,1.0,0.1,2.0,2003,2.0,2.0,mg/L
+Beryllium,0.004,0.001,0.001,2003,0.004,0.004,mg/L
+Cadmium,0.005,0.001,4e-05,2006,0.005,0.005,mg/L
+"Chromium, Total",0.05,0.01,,1999,0.1,0.1,mg/L
+Cyanide,0.15,0.1,0.15,1997,0.2,0.2,mg/L
+Fluoride,2.0,0.1,1.0,1997,4.0,4.0,mg/L
+Mercury,0.002,0.001,0.0012,2005,0.002,0.002,mg/L
+Nickel,0.1,0.01,0.012,2001,,,mg/L
+Nitrate,10.0,0.4,45.0,2018,10.0,10.0,10 as N mg/L
+Nitrite,1.0,0.4,1.0,2018,1.0,1.0,1 as N mg/L
+Nitrate + Nitrite,10.0,,10.0,2018,,,10 as N mg/L
+Perchlorate,0.006,0.002,0.001,2015,,,mg/L
+Selenium,0.05,0.005,0.03,2010,0.05,0.05,mg/L
+Thallium,0.002,0.001,0.0001,2004,0.002,0.0005,mg/L
+Copper,1.3,0.05,0.3,2008,1.3,1.3,mg/L
+Lead,0.015,0.005,0.0002,2009,0.015,0.0,mg/L
+Gross Alpha Particle,15.0,3.0,,,15.0,0.0,pCi/L
+Gross Beta Particle,4.0,4.0,,,4.0,0.0,pCi/L
+Radium-226 + Radium-228,5.0,,,,5.0,0.0,pCi/L
+Strontium-90,8.0,2.0,0.35,2006,,,pCi/L
+Tritium,20000.0,1000.0,400.0,2006,,,pCi/L
+Uranium,20.0,1.0,0.43,2001,30.0,0.0,pCi/L (ug/L for Federal_MCL)
+Benzene,0.001,0.0005,0.00015,2001,0.005,0.0,mg/L
+Carbon tetrachloride,0.0005,0.0005,0.0001,2000,0.005,0.0,mg/L
+"1,2-Dichlorobenzene",0.6,0.0005,0.6,2009,0.6,0.6,mg/L
+"1,4-Dichlorobenzene(p-DCB)",0.005,0.0005,0.006,1997,0.075,0.075,mg/L
+"1,1-Dichloroethane (1,1-DCA)",0.005,0.0005,0.003,2003,,,mg/L
+"1,2-Dichloroethane (1,2-DCA)",0.0005,0.0005,0.0004,2005,0.005,0.0,mg/L
+"1,1-Dichloroethylene (1,1-DCE)",0.006,0.0005,0.01,1999,0.007,0.007,mg/L
+"cis-1,2-Dichloroethylene",0.006,0.0005,0.013,2018,0.07,0.07,mg/L
+"trans-1,2-Dichloroethylene",0.01,0.0005,0.05,2018,0.1,0.1,mg/L
+Dichloromethane (Methylene chloride),0.005,0.0005,0.004,2000,0.005,0.0,mg/L
+"1,2-Dichloropropane",0.005,0.0005,0.0005,1999,0.005,0.0,mg/L
+"1,3-Dichloropropene",0.0005,0.0005,0.0002,2006,,,mg/L
+Ethylbenzene,0.3,0.0005,0.3,1997,0.7,0.7,mg/L
+Methyl tertiary butyl ether (MTBE),0.013,0.003,0.013,1999,,,mg/L
+Monochlorobenzene,0.07,0.0005,0.07,2014,0.1,0.1,mg/L
+Styrene,0.1,0.0005,0.0005,2010,0.1,0.1,mg/L
+"1,1,2,2-Tetrachloroethane",0.001,0.0005,0.0001,2003,0.1,0.1,mg/L
+Tetrachloroethylene (PCE),0.005,0.0005,6e-05,2001,0.005,0.0,mg/L
+Toluene,0.15,0.0005,0.15,1999,1.0,1.0,mg/L
+"1,2,4-Trichlorobenzene",0.005,0.0005,0.005,1999,0.07,0.07,mg/L
+"1,1,1-Trichloroethane (1,1,1-TCA)",0.2,0.0005,1.0,2006,0.2,0.2,mg/L
+"1,1,2-Trichloroethane (1,1,2-TCA)",0.005,0.0005,0.0003,2006,0.005,0.003,mg/L
+Trichloroethylene (TCE),0.005,0.0005,0.0017,2009,0.005,0.0,mg/L
+Trichlorofluoromethane (Freon 11),0.15,0.005,1.3,2014,,,mg/L
+"1,1,2-Trichloro-1,2,2-Trifluoroethane (Freon 113)",1.2,0.01,4.0,2011,,,mg/L
+Vinyl chloride,0.0005,0.0005,5e-05,2000,0.002,0.0,mg/L
+Xylenes,1.75,0.0005,1.8,1997,10.0,10.0,mg/L
+Alachlor,0.002,0.001,0.004,1997,0.002,0.0,mg/L
+Atrazine,0.001,0.0005,0.00015,1999,0.003,0.003,mg/L
+Bentazon,0.018,0.002,0.2,2009,,,mg/L
+Benzo(a)pyrene,0.0002,0.0001,7e-06,2010,0.0002,0.0,mg/L
+Carbofuran,0.018,0.005,0.0007,2016,0.04,0.04,mg/L
+Chlordane,0.0001,0.0001,3e-05,2006,0.002,0.0,mg/L
+Dalapon,0.2,0.01,0.79,2009,0.2,0.2,mg/L
+"1,2-Dibromo-3-chloropropane (DBCP)",0.0002,1e-05,3e-06,2020,0.0002,0.0,mg/L
+"2,4-Dichlorophenoxyacetic acid (2,4-D)",0.07,0.01,0.02,2009,0.07,0.07,mg/L
+Di(2-ethylhexyl)adipate,0.4,0.005,0.2,2003,0.4,0.4,mg/L
+Di(2-ethylhexyl)phthalate (DEHP),0.004,0.003,0.012,1997,0.006,0.0,mg/L
+Dinoseb,0.007,0.002,0.014,2010,0.007,0.007,mg/L
+Diquat,0.02,0.004,0.006,2016,0.02,0.02,mg/L
+Endothal,0.1,0.045,0.094,2014,0.1,0.1,mg/L
+Endrin,0.002,0.0001,0.0003,2016,0.002,0.002,mg/L
+Ethylene dibromide (EDB),5e-05,2e-05,1e-05,2003,5e-05,0.0,mg/L
+Glyphosate,0.7,0.025,0.9,2007,0.7,0.7,mg/L
+Heptachlor,1e-05,1e-05,8e-06,1999,0.0004,0.0,mg/L
+Heptachlor epoxide,1e-05,1e-05,6e-06,1999,0.0002,0.0,mg/L
+Hexachlorobenzene,0.001,0.0005,3e-05,2003,0.001,0.0,mg/L
+Hexachlorocyclopentadiene,0.05,0.001,0.002,2014,0.05,0.05,mg/L
+Lindane,0.0002,0.0002,3.2e-05,2005,0.0002,0.0002,mg/L
+Methoxychlor,0.03,0.01,9e-05,2010,0.04,0.04,mg/L
+Molinate,0.02,0.002,0.001,2008,,,mg/L
+Oxamyl,0.05,0.02,0.026,2009,0.2,0.2,mg/L
+Pentachlorophenol,0.001,0.0002,0.0003,2009,0.001,0.0,mg/L
+Picloram,0.5,0.001,0.166,2016,0.5,0.5,mg/L
+Polychlorinated biphenyls (PCBs),0.0005,0.0005,9e-05,2007,0.0005,0.0,mg/L
+Simazine,0.004,0.001,0.004,2001,0.004,0.004,mg/L
+Thiobencarb,0.07,0.001,0.042,2016,,,mg/L
+Toxaphene,0.003,0.001,3e-05,2003,0.003,0.0,mg/L
+"1,2,3-Trichloropropane",5e-06,5e-06,7e-07,2009,,,mg/L
+"2,3,7,8-TCDD (dioxin)",3e-08,5e-09,5e-11,2010,3e-08,0.0,mg/L
+"2,4,5-TP (Silvex)",0.05,0.001,0.003,2014,0.05,0.05,mg/L
+Total Trihalomethanes,0.08,,,,0.08,,mg/L
+Haloacetic Acids (five) (HAA5),0.06,,,,0.06,,mg/L
+Bromate,0.01,0.005,0.0001,2009,0.01,0.0,mg/L
+Chlorite,1.0,0.02,0.05,2009,1.0,0.8,mg/L
